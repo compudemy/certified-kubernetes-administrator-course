@@ -1,6 +1,6 @@
 # Course Introduction
 
-  - Take me to the [Video Tutorial](https://kodekloud.com/topic/course-introduction-5/)
+  - Take me to the [Slide](https://docs.google.com/presentation/d/1U_kBJOd7dr_g7d9RIYgYi3LCzbTT8lRl-Hc0jCAS6mU/edit#slide=id.g176f311eeb1_0_51)
 
 #### This course focuses on Administration part of the kubernetes. 
 
